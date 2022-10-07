@@ -8,4 +8,4 @@ phpinfo();
 phpinfo(INFO_MODULES);
 
 ?>
-<h1>--- end of script ---</h1>
+<h1>--- end @ script ---</h1>
